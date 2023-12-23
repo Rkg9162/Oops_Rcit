@@ -1,3 +1,6 @@
+//WAP to enter sallary of a staf if sallry is greater then 10,000 
+//so include 10% bonus in his sallary other wise bonous is 5%
+
 
 import java.util.Scanner;
 public class Oops_Rcit5 {
