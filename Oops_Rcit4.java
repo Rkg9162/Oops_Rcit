@@ -9,10 +9,11 @@ public class Oops_Rcit4 {
         Scanner sc = new Scanner( System.in);
         System.out.println("enter you sallary");
         int Sallry = sc.nextInt();
+        int bonus = (Sallry/100)*10;
         if (Sallry>10000)
         {
             System.out.println("this is your final Sallry");
-            System.out.println(Sallry+ (Sallry/100)*10);
+            System.out.println(Sallry+ bonus);
 
         }
         else{
